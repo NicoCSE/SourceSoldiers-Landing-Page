@@ -1,0 +1,18 @@
+/* Configuración base de tipografías */
+body { 
+    font-family: 'Inter', sans-serif; 
+}
+
+.font-headline { 
+    font-family: 'Manrope', sans-serif; 
+}
+
+/* Efectos visuales personalizados (Sombras y Glassmorphism) */
+.water-shadow { 
+    box-shadow: 0 12px 32px rgba(0, 50, 125, 0.06); 
+}
+
+.glass-effect { 
+    backdrop-filter: blur(20px); 
+    background: rgba(246, 250, 254, 0.8); 
+}
